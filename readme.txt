@@ -4,7 +4,7 @@ Donate link: http://www.bgextensions.bgvhod.com/
 Tags: links, ads, share, seo, backlinks
 Requires at least: 3.0.1
 Tested up to: 4.1
-Stable tag: trunk
+Stable tag: 1.0
 
 This Wordpress plugin installs a new sidebar widget that can display the links from OpenLinks network and add site to the their network Database.
 
